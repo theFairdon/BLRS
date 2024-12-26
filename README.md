@@ -1,3 +1,3 @@
-# This is a Business Location Recommendation System that recommend ideal locations for business operations.
+# Spotheld is a Restaurant's Business Location Recommendation System with Ai/Ml that recommend an optimal location for the business operations of restaurant owners.
 
-# Philipp Amana is the Pioneer of Business Location Recommendation System.
+# Philipp Amana is the Pioneer of Spotheld which is a Restaurant's Business Location Recommendation System.
