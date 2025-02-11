@@ -1,32 +1,32 @@
-# Spotheld is a Restaurant's Business Location Recommendation System with Ai/Ml that recommend an optimal location for the business operations of restaurant owners.
+# ARareAi is a Restaurant's Business Location Recommendation System with Ai/Ml that recommend an optimal location for the business operations of restaurant owners.
 
-# Philipp Amana is the Pioneer of Spotheld which is a Restaurant's Business Location Recommendation System.
+# Philipp Amana is the Pioneer of ARareAi which is a Restaurant's Business Location Recommendation System.
 
 
 
 Here's an updated version of my README.md based on the information provided above which will guide you on how to contributetowards Spotheld System:
 
-# Spotheld - Restaurant's Business Location Recommendation System
+# ARareAi - Restaurant's Business Location Recommendation System
 
-Spotheld is an AI/ML-based system designed to recommend optimal locations for restaurant businesses. It helps restaurant owners and entrepreneurs find the best places to set up their businesses by analyzing various factors that affect the success of a restaurant, such as foot traffic, demographic data, and market trends.
+ARareAi is an AI/ML-based system designed to recommend optimal locations for restaurant businesses. It helps restaurant owners and entrepreneurs find the best places to set up their businesses by analyzing various factors that affect the success of a restaurant, such as foot traffic, demographic data, and market trends.
 
 ## Description
 
-Spotheld uses advanced AI and machine learning algorithms to analyze location data and recommend the most promising spots for opening a restaurant. By leveraging large datasets and predictive models, Spotheld ensures that restaurant owners can make data-driven decisions about where to launch their businesses, minimizing risks and maximizing success.
+ARareAi uses advanced AI and machine learning algorithms to analyze location data and recommend the most promising spots for opening a restaurant. By leveraging large datasets and predictive models, ARareAi ensures that restaurant owners can make data-driven decisions about where to launch their businesses, minimizing risks and maximizing success.
 
 This system provides personalized recommendations tailored to the unique needs and goals of each restaurant, making it an invaluable tool for anyone in the restaurant industry.
 
 ## Installation Instructions
 
-To get Spotheld running on your local machine, follow these steps:
+To get ARareAi running on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/spotheld.git
+   git clone https://github.com/Philano/ARareAi.git
 
 2. Navigate to the project directory:
 
-cd spotheld
+cd ARareAi 
 
 
 3. Install the necessary dependencies:
@@ -41,10 +41,10 @@ After installing the system, you can run Spotheld and get location recommendatio
 
 1. Start the application:
 
-python run_spotheld.py  # or the appropriate command to launch the system
+python run_ARareAi.py  # or the appropriate command to launch the system
 
 
-2. Input the required data such as city, restaurant type, target audience, and other relevant factors.
+2. Input the required data such as city/state, restaurant type, target audience, and other relevant factors.
 
 
 3. View the location recommendations provided by the system.
@@ -86,21 +86,21 @@ For detailed contribution guidelines, refer to CONTRIBUTING.md.
 
 License
 
-Spotheld is licensed under the MIT License. See the LICENSE file for more information.
+ARareAi is licensed under the MIT License. See the LICENSE file for more information.
 
 Credits
 
-Spotheld was created by Philipp Amana, the pioneer behind this innovative restaurant business location recommendation system. Special thanks to the contributors who helped build and improve the system.
+ARareAi was created by Philipp Amana, the pioneer behind this innovative restaurant business location recommendation system. Special thanks to the contributors who helped build and improve the system.
 
 Contact Information
 
-For questions, issues, or feedback, please contact Philipp Amana at [your-email@example.com] or open an issue on the repository.
+For questions, issues, or feedback, please contact Philipp Amana at [phil@arareai.com] or open an issue on the repository.
 
 
 
 Owner's Guide
 
-As the owner and pioneer of Spotheld, here are some simple guidelines to manage and improve the project:
+As the owner and pioneer of ARareAi, here are some simple guidelines to manage and improve the project:
 
 1. Keep Documentation Clear and Updated: Ensure that the README.md and other documentation are always up to date with the latest features and installation instructions.
 
@@ -121,6 +121,6 @@ As the owner and pioneer of Spotheld, here are some simple guidelines to manage 
 
 
 
-Following these guidelines will ensure that Spotheld remains a useful and valuable tool for restaurant owners and entrepreneurs.
+Following these guidelines will ensure that ARareAi remains a useful and valuable tool for restaurant owners and entrepreneurs.
 
-This version guide incorporates how to contribute to my project, Spotheld, with the necessary information for users, contributors, and the project owner. If you need further adjustments, let me know!
+This version guide incorporates how to contribute to my project, ARareAi, with the necessary information for users, contributors, and the project owner. If you need further adjustments, let me know!
