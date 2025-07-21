@@ -1,4 +1,4 @@
-# Situated is a Restaurant's Business Location Recommendation System with Ai/Ml that recommend an optimal location for the business operations of restaurant owners.
+# BLRS is a Restaurant's Business Location Recommendation System  that recommend optimal location for setting up a restaurant's business.
 
 # Philipp Amana is a developer behind BLRS which is a Restaurant's Business Location Recommendation System.
 
